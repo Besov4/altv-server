@@ -1,0 +1,29 @@
+[19:49:23] alt:V Server 16.2.6 (release)
+[19:49:23] Starting alt:V Server on [::]:7788
+[19:49:23] Loading resource myjsresource
+[19:49:23] Сервер запущен!
+[19:49:23] Loaded resource myjsresource
+[19:49:23] Loading resource chat
+[19:49:23][Error] Failed to load resource chat
+[19:49:23] Required server permissions:
+[19:49:23] Optional server permissions:
+[19:49:23] Starting HTTP server on [::]:7788
+[19:49:23] Main thread started (ThreadId: 32588)
+[19:49:23] EntityStreamer thread started (ThreadId: 32968)
+[19:49:23] SyncSend thread started (ThreadId: 31020)
+[19:49:23] SyncSend thread started (ThreadId: 32972)
+[19:49:23] SyncSend thread started (ThreadId: 8724)
+[19:49:23] SyncSend thread started (ThreadId: 32076)
+[19:49:23] SyncSend thread started (ThreadId: 23248)
+[19:49:23] SyncSend thread started (ThreadId: 15068)
+[19:49:23] SyncSend thread started (ThreadId: 23232)
+[19:49:23] SyncSend thread started (ThreadId: 15984)
+[19:49:23] NetworkWorker #1 thread started (ThreadId: 12380)
+[19:49:23] SyncReceive thread started (ThreadId: 16396)
+[19:49:23] SyncReceive thread started (ThreadId: 10780)
+[19:49:23] SyncReceive thread started (ThreadId: 33520)
+[19:49:23] SyncReceive thread started (ThreadId: 10572)
+[19:49:23] Console thread started (ThreadId: 33468)
+[19:49:23] Server started
+[19:49:26] Stopping resource myjsresource
+[19:49:26] Stopped resource myjsresource
